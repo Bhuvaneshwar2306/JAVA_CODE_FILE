@@ -2,7 +2,7 @@ Program1_A output:
 
 ListInterfaceDemo : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/PROGRAM1_A.png
 
-PROGRAM1_B output:
+Program1_B output:
 
 p1 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p1_prg1.png
 
