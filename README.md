@@ -24,7 +24,7 @@ p9 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p9_prg1.png
 
 p10 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p10_prg1.png
 
-Program1_A output:
+Program2_A output:
 
 MapInterfaceDemo : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/program2_A.png
 
