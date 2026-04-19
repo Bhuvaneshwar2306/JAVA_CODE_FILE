@@ -6,7 +6,7 @@ Program1_B output:
 
 p1 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p1_prg1.png
 
-p2 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p2_prg1.png
+p2 : https://github.com/Bhuvaneshwar2306/JAVA_CODE_FILE/blob/main/p2_prg1.png
 
 p3 : https://github.com/ani2928ks-kira/JAVA_CODE_FILE/blob/main/p3_prg1.png
 
